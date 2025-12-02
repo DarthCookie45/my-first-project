@@ -1,7 +1,9 @@
 body {
     background-color: lightgrey;
     background-image: url("../images/background-img.jpg");
+    background-size: cover;
 }
+
 
 p {
     font-weight: bold;
